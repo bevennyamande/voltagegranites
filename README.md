@@ -1,2 +1,2 @@
-# voltagegranites
+# Voltage Granites
 Voltage Granites website
